@@ -6,9 +6,9 @@ This repository hosts the Lazarus bindings for a [ACR122U](https://www.acs.com.h
 
 The readers datasheet can be downloaded [here](https://www.acs.com.hk/download-manual/419/API-ACR122U-2.04.pdf).
 
-The source code of this repository was initially taken [here](http://www.infintuary.org/stpcsc.php).
+The source code of this repository was initially taken from [here](http://www.infintuary.org/stpcsc.php).
 
-The code then was modified to work with Lazarus 4.99 under Linux Mint and Windows 11.
+The code then was modified to work with Lazarus 4.99 under Linux Mint (64) and Windows 11 (64).
 
 ## Installation
 
